@@ -1,0 +1,29 @@
+******************************************
+* Criado por: Omar Junior - @OmarJunr    *
+* Versão 1.0  ------------  05/05/2022   *
+*                SEA DARK                *
+******************************************
+
+Para ativar o Tema SeaDark no Visual FoxPro:
+ - Colocar os arquivos "SeaDarkVFP.FPX" e "SeaDarkVFP.PRG" na pasta padrão de arquivos;
+ - Abrir o Visual FoxPro;
+ - Digitar o comando "DO SeaDarkVFP" e precionar <ENTER> fechar a mensagem no [OK];
+ - Fechar o Visual FoxPro;
+ - Abrir o Visual FoxPro novamente;
+ - Clicar na aba "Tools" no menu superior;
+ - Clicar em "Options..." dentro da aba "Tools";
+ - Clicar na Aba "Editor";
+ - Clicar no botão [Set As Default];
+ - Clicar em [OK];
+ - Pronto Tema Sea Dark ativo no Visual FoxPro!
+
+Para ativar o Tema SeaDark no NotePad++:
+ - Locazizar a pasta NotePad++;
+ -- Clicando com o botão direito do mouse no executavel do NotePad++ e "Abrir local do arquivo";
+ ou ir no caminho "C:\Program Files (x86)\Notepad++";
+ - Entrar na pasta "themes" e colocar o arquivo "SeaDark.XML";
+ - Abrir o NotePad++ ;
+ - Clicar na aba "Configurações" no menu superior;
+ - Clicar wm "Configurador de estilos..." dentro da aba "Configurações";
+ - No combo "Selecionar tema:" selecione o tema "SeaDark";
+ - Pronto Tema Sea Dark ativo no NotePad++!
